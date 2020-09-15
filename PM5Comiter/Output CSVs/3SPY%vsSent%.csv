@@ -1,0 +1,26 @@
+% change in spy vs % of each sentiment type per day,,,,
+,,,,
+ Hypothesis for combining the data ,,,,
+," Combining the external data which is the daily prices for SPY with the data from current Source table, we can explore if daily overall sentiments from comments and newsheadline combined have any impact on the price change of the stock market. ",,,
+,,,,
+ Results ,,,,
+date,SPY %change,bullishper,bearishper,neutralper
+7/1/20,0.003068715,0,0,1
+7/2/20,-0.006396318,0,0.1667,0.8333
+7/6/20,0.00214936,0,0.2,0.8
+7/7/20,-0.005073264,0,0,1
+7/8/20,0.004990331,0,0,1
+7/9/20,-0.007764143,0,0,1
+7/10/20,0.010435551,0,0.25,0.75
+7/13/20,-0.016524565,0,0,1
+7/14/20,0.017938159,0,0.1111,0.8889
+7/15/20,-0.001736913,0.1429,0.1429,0.7143
+7/16/20,0.003127052,0,0,1
+7/17/20,-0.000497092,0.0625,0.125,0.8125
+7/20/20,0.008991115,0.1073,0.0781,0.8145
+7/21/20,-0.004411095,0.1253,0.0924,0.7823
+7/22/20,0.006900345,0.1298,0.0949,0.7753
+7/23/20,-0.010751401,0.1136,0.1144,0.772
+7/24/20,-0.000218124,0.1213,0.1044,0.7742
+,,,,
+ Chart's significance and forward guidance ,,,,

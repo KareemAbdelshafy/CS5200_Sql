@@ -1,0 +1,14 @@
+Overall Comments sentiment % vs % change in spy  per day,,,,
+,,,,
+ Hypothesis for combining the data ,,,,
+," Combining the external data which is the daily prices for SPY with the data from current Comment table, we can explore if daily comment sentiments have any impact on the price change of the stock market. ",,,
+,,,,
+ Results ,,,,
+date,SPY %change,bullishper,bearishper,neutralper
+7/20/20,0.008991115,0.1073,0.0776,0.8151
+7/21/20,-0.004411095,0.128,0.0946,0.7774
+7/22/20,0.006900345,0.1305,0.0959,0.7736
+7/23/20,-0.010751401,0.1193,0.1185,0.7622
+7/24/20,-0.000218124,0.1323,0.1079,0.7599
+,,,,
+ Chart's significance and forward guidance ,,,,
